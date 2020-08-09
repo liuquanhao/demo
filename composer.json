@@ -1,0 +1,10 @@
+{
+    "name": "liuxu/demo",
+    "description": "liuxu composer demo",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    }
+}
